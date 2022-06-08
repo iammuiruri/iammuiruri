@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianmuiruri
-- 👀 I’m interested in web development, software engineering and data analysis.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in web development, mobile applications development and data analysis.
+- 🌱 I’m currently learning Nodejs, python and React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
